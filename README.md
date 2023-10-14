@@ -1,7 +1,7 @@
 This is an Ecommerce DashBoard Project.  This Project powers my [Ecommerce Store Project](https://github.com/cjpanda/ecommerce-store)
 
 ## Developed Using:
-Reactjs, NextJs, Typescript, Shadcn UI, MySQL(for database), PrismaDB, TailwindCSS, Stripe API, Clerk for User Account and Auth, Cloudinary for Image Uploads.
+Reactjs, NextJs, Typescript, Shadcn UI, Database:Planetscale(MySQL), PrismaDB, TailwindCSS, Stripe API, Clerk for User Account and Auth, Cloudinary for Image Uploads.
 
 DashBoard Features: Multiple Store Creations, Image Uploads, User Accounts, Light and DarkMode ...  
 
