@@ -1,4 +1,4 @@
-This is an Ecommerce DashBoard Project.  This Project powers my [Ecommerce Store Project]
+This is an Ecommerce DashBoard Project.  This Project powers my Ecommerce Store Project
 
 ## Developed Using 
 Reactjs, NextJs, Typescript, Shadcn UI, MySQL(for database), PrismaDB, TailwindCSS, Stripe API, Clerk for User Account and Auth, Cloudinary for Image Uploads.
