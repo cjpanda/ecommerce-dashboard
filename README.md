@@ -1,36 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an Ecommerce DashBoard Project.  This Project powers my [Ecommerce Store Project]
 
-## Getting Started
+## Developed Using 
+Reactjs, NextJs, Typescript, Shadcn UI, MySQL(for database), PrismaDB, TailwindCSS, Stripe API, Clerk for User Account and Auth, Cloudinary for Image Uploads.
 
-First, run the development server:
+DashBoard Features: Multiple Store Creations, Image Uploads, User Accounts, Light and DarkMode ...  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Link to the DashBoard Live Version : https://ecommerce-dashboard-theta-nine.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot (128)](https://github.com/cjpanda/ecommerce-dashboard/assets/107156444/e53a7c56-9423-4429-a844-bc897b07dd05)
+![Screenshot (127)](https://github.com/cjpanda/ecommerce-dashboard/assets/107156444/07d520db-48d9-4a0e-b487-9e704e37b210)
+![Screenshot (129)](https://github.com/cjpanda/ecommerce-dashboard/assets/107156444/6d981002-a3ff-4ed0-9217-ead2da30c9a7)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
