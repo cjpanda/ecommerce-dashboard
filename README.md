@@ -1,4 +1,4 @@
-## This is an Ecommerce DashBoard Project.  This Project powers my [Ecommerce Store Project](https://github.com/cjpanda/ecommerce-store)
+# This is an Ecommerce DashBoard Project.  This Project powers my [Ecommerce Store Project](https://github.com/cjpanda/ecommerce-store)
 
 ## Developed Using:
 Reactjs, NextJs, Typescript, Shadcn UI, Database:Planetscale(MySQL), PrismaDB, TailwindCSS, Stripe API, Clerk for User Account and Auth, Cloudinary for Image Uploads.
